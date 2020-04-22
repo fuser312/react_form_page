@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fuser312/react_form/static/css/main.0076e88f.chunk.css",
+    "main.js": "/fuser312/react_form/static/js/main.f932388b.chunk.js",
+    "main.js.map": "/fuser312/react_form/static/js/main.f932388b.chunk.js.map",
+    "runtime-main.js": "/fuser312/react_form/static/js/runtime-main.37f9d956.js",
+    "runtime-main.js.map": "/fuser312/react_form/static/js/runtime-main.37f9d956.js.map",
+    "static/js/2.b36a877c.chunk.js": "/fuser312/react_form/static/js/2.b36a877c.chunk.js",
+    "static/js/2.b36a877c.chunk.js.map": "/fuser312/react_form/static/js/2.b36a877c.chunk.js.map",
+    "index.html": "/fuser312/react_form/index.html",
+    "precache-manifest.c9615b45015a7aee005e3b88e10c437c.js": "/fuser312/react_form/precache-manifest.c9615b45015a7aee005e3b88e10c437c.js",
+    "service-worker.js": "/fuser312/react_form/service-worker.js",
+    "static/css/main.0076e88f.chunk.css.map": "/fuser312/react_form/static/css/main.0076e88f.chunk.css.map",
+    "static/js/2.b36a877c.chunk.js.LICENSE.txt": "/fuser312/react_form/static/js/2.b36a877c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37f9d956.js",
+    "static/js/2.b36a877c.chunk.js",
+    "static/css/main.0076e88f.chunk.css",
+    "static/js/main.f932388b.chunk.js"
+  ]
+}
